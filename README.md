@@ -1,2 +1,4 @@
 # gessthenumber
-A gessing number game
+A gessing number game.
+<br>
+Author: Tarun Tiwari
